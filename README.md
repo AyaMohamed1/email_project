@@ -11,7 +11,12 @@ another mail server is located.
 # Before you start::
 - create database "Email_Server" with "email" and "user" tables
 - create the database tables as the pictures of this link
-   https://docs.google.com/drawings/d/1Ry9g37GOlss0IGM401qwTjHJwkWOt2U9IX8jX2SNWBI/edit?usp=sharing
+    https://docs.google.com/drawings/d/1Ry9g37GOlss0IGM401qwTjHJwkWOt2U9IX8jX2SNWBI/edit?usp=sharing
    
 # For more details about the project, you can see this presentation at the link below..
     https://docs.google.com/presentation/d/1mT9n85RdVopC3EJNPtDUQIJIQGDFdbog1Mn4flbuwvs/edit?usp=sharing
+
+
+# Note that:
+- Some parts of the forntend is a template form this link
+    https://www.free-css.com/free-css-templates 
