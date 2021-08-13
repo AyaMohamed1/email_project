@@ -1,0 +1,22 @@
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        box-sizing: border-box;
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .formStyles{
+        width: 350px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.116);
+        padding: 30px;
+     
+    }
+    .formStyles form input{
+        width: 100%;
+        padding: 8px;
+    }
